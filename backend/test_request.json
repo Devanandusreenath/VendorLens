@@ -1,0 +1,12 @@
+{
+  "supplier_name": "Example Supplier",
+  "website": "https://example.com/",
+  "category": "Industrial components",
+  "region": "India",
+  "description": "Example supplier for API testing",
+  "claims": [
+    "The company provides electronics manufacturing services.",
+    "The company holds the certifications it advertises."
+  ],
+  "additional_context": "Test payload only; replace with real supplier details."
+}
